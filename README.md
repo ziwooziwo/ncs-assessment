@@ -5,5 +5,5 @@
 -커밋 안했을 때<br>
 git rm --cached README.md <br>
 -커밋 했을 때<br>
-git reset HEAD
+git reset HEAD <br>
 git reset HEAD [FILE...] <br>
