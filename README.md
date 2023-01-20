@@ -1,4 +1,4 @@
-**Github 프로젝트 관리**
+**Github 프로젝트 관리**<br>
 -git 에서 commit 할 내용을 추가 가능 (add 기능)<br>
 -add로 추가한 기능 삭제 가능<br>
 @삭제법<br>
